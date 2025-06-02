@@ -3,7 +3,17 @@ entries:
   kadense:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-05-29T12:31:04.609769147Z"
+    created: "2025-06-02T23:08:43.841297129Z"
+    description: A Helm chart for Kubernetes
+    digest: 00882f1d94b216ea113c4f9afeb9da11ca0fcf0a4d0fd19d441cd9c5076f59eb
+    name: kadense
+    type: application
+    urls:
+    - kadense-0.1.163.tgz
+    version: 0.1.163
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-06-02T23:08:43.84071884Z"
     description: A Helm chart for Kubernetes
     digest: 5db331f4ff9075ce9d179e563d5e591a6704c88442dc9674413e20dde12dfd87
     name: kadense
@@ -13,7 +23,7 @@ entries:
     version: 0.1.162
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-05-29T12:31:04.609155832Z"
+    created: "2025-06-02T23:08:43.840122848Z"
     description: A Helm chart for Kubernetes
     digest: 382267acc2ea617c66162b47c23857f796bba48e4bb15d987e6abfe5dc5c6114
     name: kadense
@@ -24,7 +34,17 @@ entries:
   kadense-crds:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-05-29T12:31:04.611959529Z"
+    created: "2025-06-02T23:08:43.843102145Z"
+    description: A Helm chart for Kubernetes Custom Resource Definitions (CRDs)
+    digest: 5092f8732d187e736abcaea05929d192255a85969f3e6fa24373d7d6c526861c
+    name: kadense-crds
+    type: application
+    urls:
+    - kadense-crds-0.1.163.tgz
+    version: 0.1.163
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-06-02T23:08:43.842761821Z"
     description: A Helm chart for Kubernetes Custom Resource Definitions (CRDs)
     digest: f05d71c3684506fae0d6b4a81764848c2f7b84f08133d21282d0e4e9bd06546f
     name: kadense-crds
@@ -34,7 +54,7 @@ entries:
     version: 0.1.162
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-05-29T12:31:04.610079431Z"
+    created: "2025-06-02T23:08:43.842197048Z"
     description: A Helm chart for Kubernetes Custom Resource Definitions (CRDs)
     digest: e411ca8ad3aa25462f616e7d486c33bdd3383e54c027c135c5056acdf9b8bdd4
     name: kadense-crds
@@ -42,4 +62,4 @@ entries:
     urls:
     - kadense-crds-0.1.161.tgz
     version: 0.1.161
-generated: "2025-05-29T12:31:04.608394638Z"
+generated: "2025-06-02T23:08:43.839261591Z"
