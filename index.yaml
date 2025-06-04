@@ -3,7 +3,17 @@ entries:
   kadense:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.4623493Z"
+    created: "2025-06-04T15:07:53.088204651Z"
+    description: A Helm chart for Kubernetes
+    digest: f52b9288d0bb6ee0ad9986f56757a376da67b52ece63c7a9df666089860913af
+    name: kadense
+    type: application
+    urls:
+    - kadense-0.1.167.tgz
+    version: 0.1.167
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-06-04T15:07:53.087632179Z"
     description: A Helm chart for Kubernetes
     digest: 64626aab305fd80452cd285b00e8cef0e917e87f1f3a03b1ad263ba91e56e712
     name: kadense
@@ -13,7 +23,7 @@ entries:
     version: 0.1.166
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.46172701Z"
+    created: "2025-06-04T15:07:53.087061991Z"
     description: A Helm chart for Kubernetes
     digest: b5dcfa8ce448b9daf317b53c399e5496326dda54daa186f01fd6b66efaa61735
     name: kadense
@@ -23,7 +33,7 @@ entries:
     version: 0.1.165
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.460335281Z"
+    created: "2025-06-04T15:07:53.086504838Z"
     description: A Helm chart for Kubernetes
     digest: fff9a83887c83852993657cf0a86269bb797cd8d69d2b22089b1ea4f6acfdb12
     name: kadense
@@ -33,7 +43,7 @@ entries:
     version: 0.1.164
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.459750201Z"
+    created: "2025-06-04T15:07:53.085769481Z"
     description: A Helm chart for Kubernetes
     digest: 00882f1d94b216ea113c4f9afeb9da11ca0fcf0a4d0fd19d441cd9c5076f59eb
     name: kadense
@@ -43,7 +53,7 @@ entries:
     version: 0.1.163
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.459171192Z"
+    created: "2025-06-04T15:07:53.08500026Z"
     description: A Helm chart for Kubernetes
     digest: 5db331f4ff9075ce9d179e563d5e591a6704c88442dc9674413e20dde12dfd87
     name: kadense
@@ -53,7 +63,7 @@ entries:
     version: 0.1.162
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.458573909Z"
+    created: "2025-06-04T15:07:53.079912131Z"
     description: A Helm chart for Kubernetes
     digest: 382267acc2ea617c66162b47c23857f796bba48e4bb15d987e6abfe5dc5c6114
     name: kadense
@@ -64,7 +74,17 @@ entries:
   kadense-crds:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.464926112Z"
+    created: "2025-06-04T15:07:53.091625929Z"
+    description: A Helm chart for Kubernetes Custom Resource Definitions (CRDs)
+    digest: 820f186cfab0e4ebcf6cc2f50dada2373c0642a36138e06f2d53748ae94569a5
+    name: kadense-crds
+    type: application
+    urls:
+    - kadense-crds-0.1.167.tgz
+    version: 0.1.167
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-06-04T15:07:53.091122876Z"
     description: A Helm chart for Kubernetes Custom Resource Definitions (CRDs)
     digest: a1b7d271f9a1f77955eebc0a4ac4331f1136f622c16244686c72c20c3b556b15
     name: kadense-crds
@@ -74,7 +94,7 @@ entries:
     version: 0.1.166
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.464589489Z"
+    created: "2025-06-04T15:07:53.090660581Z"
     description: A Helm chart for Kubernetes Custom Resource Definitions (CRDs)
     digest: 596e29402061bde2aacbd9e86aa6ab2c8182505b7ec1eaf2d336a6559237aa32
     name: kadense-crds
@@ -84,7 +104,7 @@ entries:
     version: 0.1.165
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.463988512Z"
+    created: "2025-06-04T15:07:53.090373172Z"
     description: A Helm chart for Kubernetes Custom Resource Definitions (CRDs)
     digest: d693b2ca33e109166b530359688f3daf2e57df1ef7e375f6efff482f4180e1bc
     name: kadense-crds
@@ -94,7 +114,7 @@ entries:
     version: 0.1.164
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.463290781Z"
+    created: "2025-06-04T15:07:53.090059315Z"
     description: A Helm chart for Kubernetes Custom Resource Definitions (CRDs)
     digest: 5092f8732d187e736abcaea05929d192255a85969f3e6fa24373d7d6c526861c
     name: kadense-crds
@@ -104,7 +124,7 @@ entries:
     version: 0.1.163
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.46300847Z"
+    created: "2025-06-04T15:07:53.089721011Z"
     description: A Helm chart for Kubernetes Custom Resource Definitions (CRDs)
     digest: f05d71c3684506fae0d6b4a81764848c2f7b84f08133d21282d0e4e9bd06546f
     name: kadense-crds
@@ -114,7 +134,7 @@ entries:
     version: 0.1.162
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-04T11:17:37.462677387Z"
+    created: "2025-06-04T15:07:53.089100239Z"
     description: A Helm chart for Kubernetes Custom Resource Definitions (CRDs)
     digest: e411ca8ad3aa25462f616e7d486c33bdd3383e54c027c135c5056acdf9b8bdd4
     name: kadense-crds
@@ -122,4 +142,4 @@ entries:
     urls:
     - kadense-crds-0.1.161.tgz
     version: 0.1.161
-generated: "2025-06-04T11:17:37.457639021Z"
+generated: "2025-06-04T15:07:53.067147116Z"
